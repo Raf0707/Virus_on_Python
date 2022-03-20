@@ -1,4 +1,5 @@
 # Не проверяй свой комп на прочность!
+# Прочитай README.md и хорошо подумай, надо оно тебе или не надо!
 
 import itertools, subprocess, sys, os
 f = os.path.basename(sys.argv[0])
